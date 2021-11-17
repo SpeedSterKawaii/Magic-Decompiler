@@ -23,3 +23,19 @@
 - 8: Open a dynamic link library or executable, then hit OK.
 - 9: Wait while it dumps the function names, subs, etc.
 - 10: Click on a function to view it's pseudocode, and etc.
+
+# MDCV2 OS supported?
+- Windows 7 Home Edition: **Magic Decompiler W7 Home**
+- Windows 7 Pro Edition: **Magic Decompiler W7 PRO**
+- Windows 7 Ultimate Edition: **Magic Decompiler W7 ULTM**
+
+- Windows 8 (org): **Magic Decompiler Windows 8**
+- Windows 8 Pro Edition: **Magic Decompiler W8 PRO**
+- Windows 8.1 (org): **Magic Decompiler Windows 8.1**
+- Windows 8 Enterprise Edition: **Magic Decompiler W8 ENTPE**
+
+- Windows 10 Home Edition: **Magic Decompiler W10 Home**
+- Windows 10 Pro Edition: **Magic Decompiler W10 PRO**
+- Windows 10 (org): **Magic Decompiler Windows 10**
+
+- **DOES NOT SUPPORT ANY OTHER MICROSOFT WINDOWS COMPUTER!**
