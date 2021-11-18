@@ -47,4 +47,4 @@
 - *Hex2stringAPI.dll* (for internal hex to string)
 - *setCurrentBoolAPI.dll* (API for switching from bools to true and false)
 - *qconsoleStartup.exe* (launches Magic C++ decompiler in general)
-*Other file extensions and description is not well documented.*
+- *Other file extensions and description is not well documented.*
