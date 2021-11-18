@@ -11,6 +11,7 @@
 - *Generated MCD pseudocode*
 - *Supports VS-2019 compiler*
 - *Free online auto updates*
+- *...and theres more...!*
 
 # How to use MDCV2?
 - 1: Download it from speed-software(s) github website.
