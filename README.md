@@ -49,3 +49,19 @@
 - *setCurrentBoolAPI.dll* (API for switching from bools to true and false)
 - *qconsoleStartup.exe* (launches Magic C++ decompiler in general)
 - *Other file extensions and description is not well documented.*
+- ***Do not delete or rename any file extension as errors will occur!***
+
+# MCDV2 WARNING(s):
+- **Do NOT make any ILLEGAL COPIES of this SOFTWARE.**
+- **DO NOT make REMAKES and FAKE COPIES of this SOFTWARE.**
+- **REVERSING and DECOMPILING IS NOT ALLOWED or LEGAL action CAN BE TAKEN.**
+- **DECOMPILING HIGH-SECURITY APP(s) WITHOUT CONSENT from THE PUBLISHER IS ILLEGAL.**
+- **SELLING MC++DV2 IS ILLEGAL AND LEGAL ACTION CAN [AND WILL] BE TAKEN.**
+- **Other ILLEGAL ACTS ALSO FOLLOW THIS SOFTWARE(s) RULE AND POLICY.**
+
+# MCDV2 DISCLAIMER(s):
+- **We are not in cooperation with any company or publisher.**
+- **Using this decompiler for leaking source(s) is lawful.**
+- **We do not encourage game reversing, this is your responsibility.**
+- **Decompiling for the wrong purposes is lawful and not legal.**
+- *Other acts may comply to this rule, including illegal actions*
