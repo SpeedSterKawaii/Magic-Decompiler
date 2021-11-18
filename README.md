@@ -40,3 +40,15 @@
 
 - **DOES NOT SUPPORT ANY OTHER MICROSOFT WINDOWS COMPUTER!**
 - **ALSO DOES NOT SUPPORT ANY MAC OS COMPUTER AS WELL!**
+
+# What does MCDV2 contain?
+`Remember that these are important files and API's to the executable software.`
+- *Magic C++ Decompiler.exe* (used for launching)
+- *Hex2stringAPI.dll* (for internal hex to string)
+- *setCurrentBoolAPI.dll* (API for switching from bools to true and false)
+- *qconsoleStartup.exe* (launches Magic C++ decompiler in general)
+- **
+- **
+- **
+- **
+- **
